@@ -1,6 +1,6 @@
 <template>
     <header class="container-header">
-        <img src="~/assets/logo_arvia.svg" alt="logo" width="128"/>
+        <img src="~/assets/svg/logo_arvia.svg" alt="logo" width="128"/>
     </header>
 </template>
 
