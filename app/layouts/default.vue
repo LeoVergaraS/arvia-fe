@@ -1,5 +1,5 @@
 <template>
     <Header/>
     <slot/>
-    <h1>Esto es un footer</h1>
+    <Footer/>
 </template>
